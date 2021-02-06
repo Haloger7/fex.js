@@ -1,0 +1,55 @@
+{
+  "_from": "fex.js",
+  "_id": "fex.js@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-pEpjyqRi0WycFlKNxYjbG4/XKeFfPyjFgZGKvDx3j9vtdnvilIXO9mUssT46M1/+MvFHlY5XwOxEb8Qb5KWFQg==",
+  "_location": "/fex.js",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "fex.js",
+    "name": "fex.js",
+    "escapedName": "fex.js",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/fex.js/-/fex.js-1.0.0.tgz",
+  "_shasum": "930f7caa8267ffe856584d9089a5afc7445feb77",
+  "_spec": "fex.js",
+  "_where": "C:\\projects\\rewrite",
+  "author": {
+    "name": "Haloger7"
+  },
+  "bugs": {
+    "url": "https://github.com/Haloger7/fex.js/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "fex.js is lightweight but comfortable module which has unique features!",
+  "homepage": "https://github.com/Haloger7/fex.js#readme",
+  "keywords": [
+    "celsius",
+    "celsius-to-fahrenheit",
+    "fahrenheit",
+    "fahrenheit-to-celsius",
+    "air",
+    "air-humidity"
+  ],
+  "license": "MIT",
+  "main": "./src/main.js",
+  "name": "fex.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Haloger7/fex.js.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.2"
+}
