@@ -1,1 +1,1 @@
-module.exports = (celsius: number) => celsius * 1.8 + 32;
+module.exports = celsius => celsius * 1.8 + 32;
