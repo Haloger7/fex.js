@@ -32,7 +32,7 @@ npm install fex.js
 ```
 
 ### Requirements
-**Node.js > 14.0.0 is required.**
+**Node.js > 10.0.0 is required.**
 
 ## Example Usage
 ```js
