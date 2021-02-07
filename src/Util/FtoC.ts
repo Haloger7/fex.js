@@ -1,1 +1,1 @@
-module.exports = fahrenheit => (fahrenheit - 32) * 5/9;
+module.exports = (fahrenheit: number) => (fahrenheit - 32) * 5/9;
