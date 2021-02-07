@@ -28,7 +28,7 @@
 
 ## Installation
 ```js
-npm install fex.js
+npm install fex.js // Soon
 ```
 
 ### Requirements

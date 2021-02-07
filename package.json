@@ -42,14 +42,14 @@
     "air-humidity"
   ],
   "license": "MIT",
-  "main": "./src/main.js",
+  "main": "./src/main.ts",
   "name": "fex.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Haloger7/fex.js.git"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node ./src/main.ts"
   },
-  "version": "1.0.2"
+  "version": "1.0.0"
 }
