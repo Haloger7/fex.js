@@ -8,7 +8,6 @@
 <div align="center">
 <a href="https://discord.gg/6gcCWRnghX"><img src="https://img.shields.io/discord/714911198306369566?color=green&logo=FexHub" alt="Discord server" /></a>
 </div>
-</p>
 </div>
 
 # Menu
